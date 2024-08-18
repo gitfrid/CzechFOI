@@ -22,7 +22,7 @@ _________________________________________
 The data in SQLite Database CZFOI.db were imported from Vesely_106_202403141131.CSV download above.
 
 Then queries from the SQLite database were processed, and the query results were again exported to CSV files.
-<br>See folder [SQLQueries](https://github.com/gitfrid/CzechFOI/tree/eec2d09b2b63c9c2f52d4e5a4ea79da2728db96e/3D%20Plot%20Results) and [TERRA](https://github.com/gitfrid/CzechFOI/tree/main/TERRA) 
+<br>See folder [SQLQueries](https://github.com/gitfrid/CzechFOI/tree/9bbb96d978cd25f18c0333ca3a625d51ea712e22/DBBrowserforSQLite/SQLQueries) and [TERRA](https://github.com/gitfrid/CzechFOI/tree/main/TERRA) 
 including the [Phyton script for 3D-Plot](https://github.com/gitfrid/CzechFOI/blob/6ea39359e6fe61c933d2ac6c216252d48f199499/TERRA/Terra.py).
 
 The CSV  export can easily be done in the SQLite query window.
