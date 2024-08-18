@@ -9,10 +9,10 @@ Original Czech FOI-Data download from:
 
 
 DB Browser for SQLite Version 3.13.0 download from:
-https://sqlitebrowser.org/dl/
+<br>https://sqlitebrowser.org/dl/
 
 
-The Data in SQLite Database CZFOI.db were imported from the Vesely_106_202403141131_org.csv above
+The Data in SQLite Database CZFOI.db were imported from the Vesely_106_202403141131_org.csv above.
 
 Then the Data from the SQLite Datbase were processed and the results were again exported to CSV Files,
 by using the SQL queries the folder SQLQueries. This can all be processed in SQLite Query Window.
