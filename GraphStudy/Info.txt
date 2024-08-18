@@ -1,0 +1,5 @@
+Tool to analyse Complex time series
+by Miguel Diaz Kusztrich
+http://software-tecnico-libre.es/en/article-by-topic/data-analytics/complex-systems/complex-systems-graphic-analysis/complex-time-series-I
+
+Article https://naukas.com/2018/10/06/los-biomorfos-de-pickover

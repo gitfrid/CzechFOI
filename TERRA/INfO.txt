@@ -1,0 +1,4 @@
+Python 3.12.5 and Visual Studio Code Editor 
+was used for the phyton script to create the 3D Plot. 
+
+The CSV Files in this folder were created by SQLite Queries with the tool DB Browser for SQLite

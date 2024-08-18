@@ -1,0 +1,13 @@
+DB Browser for SQLite Version 3.13.0 download from:
+https://sqlitebrowser.org/dl/
+
+
+To extract the DAB with 7-zip rename them from CZFOI.001 to CZFOI.zip.001
+The Data in SQLite Database CZFOI.db 
+were imported from the Vesely_106_202403141131_org.csv above
+
+Then the Data from the SQLite Datbase were processed and the results were again exported to CSV Files,
+by using the SQL queries the folder SQLQueries.
+
+
+

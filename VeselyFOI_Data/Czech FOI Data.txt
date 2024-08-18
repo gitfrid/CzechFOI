@@ -1,0 +1,7 @@
+Czech FOI Data Vesely_106_202403141131.csv downloaded from:
+https://github.com/PalackyUniversity/uzis-data-analysis/blob/main/data/Vesely_106_202403141131.tar.xz
+https://github.com/PalackyUniversity/uzis-data-analysis/blob/main/data/
+
+Was to big to upload on Github (max 100 MB)
+
+
