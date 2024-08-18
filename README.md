@@ -7,7 +7,7 @@
 _________________________________________
 <br>
 
-![CZ all VX UNVX](https://github.com/gitfrid/CzechFOI/blob/a2596af01e9b4d5c7aeb22c8488c5c67dbe37f15/3D%20Plot%20Results/TERRA_VX_UNVX.html)
+![CZ all VX UNVX](https://github.com/gitfrid/CzechFOI/blob/84aeda58e9cd152eaa7a058c9a62eb52edb18a73/3D%20Plot%20Results/TERRA_UNVX.html)
 <br>
 
 
