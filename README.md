@@ -4,12 +4,12 @@
  Czech FOI 3D Terrain Plot
 
 <br>**Interactive 3D-Plot CZ FOI Data all VX and UNVX**
+
+<br>
+<img src="https://github.com/gitfrid/CzechFOI/blob/461003cde1492dd4ff81a37831a0762ca449521a/3D%20Plot%20Results/TERRA_VX_UNVX.html" width="800" height="auto">
+<br>
+<br>
 _________________________________________
-<br>
-
-![CZ all VX UNVX](https://github.com/gitfrid/CzechFOI/blob/84aeda58e9cd152eaa7a058c9a62eb52edb18a73/3D%20Plot%20Results/TERRA_UNVX.html)
-<br>
-
 
 Original Czech FOI-Data download from:
 <br>https://github.com/PalackyUniversity/uzis-data-analysis/blob/main/data/Vesely_106_202403141131.tar.xz
