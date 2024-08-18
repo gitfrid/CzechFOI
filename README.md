@@ -5,20 +5,21 @@
 The resulting 3D-Plots are  zoomable and rotatable HTML files. 
 <br>You can download them here: [Result Folder](https://github.com/gitfrid/CzechFOI/tree/eec2d09b2b63c9c2f52d4e5a4ea79da2728db96e/3D%20Plot%20Results)
 
- 
 <br>**Example picture interactive 3D-Plot Czech FOI Data - all VX and UNVX**
-
 <br>
-<img src="https://github.com/gitfrid/CzechFOI/blob/d6f3f69411efe25966cac1ad29dc1f34a268b596/3D%20Plot%20Results/Terra%203D%20Plot.png" width="600" height="auto">
 _________________________________________
 <br>
+<img src="https://github.com/gitfrid/CzechFOI/blob/d6f3f69411efe25966cac1ad29dc1f34a268b596/3D%20Plot%20Results/Terra%203D%20Plot.png" width="600" height="auto">
 <br>
 Original Czech FOI-Data - fredom of information request - download from:
 <br>https://github.com/PalackyUniversity/uzis-data-analysis/blob/main/data/Vesely_106_202403141131.tar.xz
 
-DB Browser for SQLite Version 3.13.0 download from:
+<br>DB Browser for SQLite Version 3.13.0 download from:
 <br>https://sqlitebrowser.org/dl/
-
+<br>**.**
+<br>
+_________________________________________
+<br>
 The data in SQLite Database CZFOI.db were imported from the Vesely_106_202403141131_org.csv above.
 
 Then the data from the SQLite database was processed, and the results were again exported to CSV files.
