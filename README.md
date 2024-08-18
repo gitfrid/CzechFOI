@@ -28,7 +28,7 @@ including the [Phyton script for 3D-Plot](https://github.com/gitfrid/CzechFOI/bl
 The CSV  export can easily be done in the SQLite query window.
 
 Day of death in the SQLite queries are days counted from start date 2020.01.01,
-<br>since the integer number of days from 2020. 01.01 is easier to process in the phyton script than a date itself. 
+<br>since the integer number of days from 2020. 01.01 is easier to handle in the phyton script than the dates. 
 
 Python and Visual Studio Code were used to create the phyton script for the 3D plot.
 
