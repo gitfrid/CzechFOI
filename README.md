@@ -6,7 +6,7 @@
 <br>**Interactive 3D-Plot CZ FOI Data all VX and UNVX**
 
 <br>
-<img src="https://github.com/gitfrid/CzechFOI/blob/461003cde1492dd4ff81a37831a0762ca449521a/3D%20Plot%20Results/TERRA_VX_UNVX.html" width="800" height="auto">
+<img src="https://github.com/gitfrid/CzechFOI/blob/d6f3f69411efe25966cac1ad29dc1f34a268b596/3D%20Plot%20Results/Terra%203D%20Plot.png" width="600" height="auto">
 <br>
 <br>
 _________________________________________
