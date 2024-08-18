@@ -15,10 +15,10 @@ DB Browser for SQLite Version 3.13.0 download from:
 The Data in SQLite Database CZFOI.db were imported from the Vesely_106_202403141131_org.csv above.
 
 Then the Data from the SQLite Datbase were processed and the results were again exported to CSV Files,
-by using the SQL queries the folder SQLQueries. This can all be processed in SQLite Query Window.
+<br>by using the SQL queries the folder SQLQueries. This can all be processed in SQLite Query Window.
 
-Day of death in the SQLite Queries ar days counted from the start date 2020.01.01, 
-since a the integer number of Days from 2020.01.01 is easyer to process in the phyton script then the Date itself. 
+Day of death in the SQLite queries are days counted from  start date 2020.01.01,
+<br>since a the integer number of days from 2020.01.01 is easyer to process in the phyton script then the date itself. 
 
 Python and Visual Studio Code was used to create the phyton script for the 3D plot.
 
