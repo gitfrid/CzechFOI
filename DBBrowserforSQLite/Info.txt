@@ -1,13 +1,23 @@
 DB Browser for SQLite Version 3.13.0 download from:
 https://sqlitebrowser.org/dl/
 
+To extract the SqLite Database which does includ the imported Czech FOI Data,
+run DBBrowserforSQLite\CZFOI.exe to extract the SQlite database file CZFOI.db
 
-To extract the DAB with 7-zip rename them from CZFOI.001 to CZFOI.zip.001
-The Data in SQLite Database CZFOI.db 
-were imported from the Vesely_106_202403141131_org.csv above
+The Data in SQLite Database CZFOI.db were imported from the Vesely_106_202403141131.csv 
+Download: https://github.com/PalackyUniversity/uzis-data-analysis/blob/main/data/Vesely_106_202403141131.tar.xz
 
-Then the Data from the SQLite Datbase were processed and the results were again exported to CSV Files,
-by using the SQL queries the folder SQLQueries.
+Alternative:
+You can easily create yourself an empty Database with the DB SQLite Explorer tool - name it for example CZFOI.db. 
+Then download  the CSV File below, and import the CSV-Data into a table of the new Database.
+For example I named this Tabele "Czech".
+
+Then the Data from this table were processed using SQLite queries.
+The results were again exported to CSV Files.
+Which can all be done in the query window of the DB SQLite Explorer Tool.
+
+See also:
+SQL queries the in folder SQLQueries.
 
 
 
