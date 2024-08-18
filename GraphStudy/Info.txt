@@ -1,5 +1,9 @@
 Tool to analyse Complex time series
 by Miguel Diaz Kusztrich
-http://software-tecnico-libre.es/en/article-by-topic/data-analytics/complex-systems/complex-systems-graphic-analysis/complex-time-series-I
 
-Article https://naukas.com/2018/10/06/los-biomorfos-de-pickover
+Download: http://software-tecnico-libre.es/en/article-by-topic/data-analytics/complex-systems/complex-systems-graphic-analysis/complex-time-series-I
+Great Tool - can generate the age distributen Histogram, as well as do Fourier analyse, calculate correlation and much more, with serial data.
+
+
+Another article of the Tool Autor:
+https://naukas.com/2018/10/06/los-biomorfos-de-pickover

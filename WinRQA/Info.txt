@@ -1,4 +1,8 @@
 WinRQA a C# application to draw recurrence plots
-by Miguel Diaz Kusztrich
+
+By Miguel Diaz Kusztrich
 http://software-tecnico-libre.es/en/article-by-topic/all_sections/all-topics/all-articles/winrqa-application
+
+Interesting Tool to analyse the Data.
+But the data had t many rwos to handle it at once.
 

@@ -12,19 +12,14 @@ import numpy as np
 from numpy.random import randn
 #from scipy import array, newaxis
 
-chunk  = np.loadtxt(r"C:\cov\Czech\Vesely\TERRA\TERRA_VX_UNVX.csv",comments='#',delimiter=',',skiprows=1)
-#chunk  = np.loadtxt(r"C:\cov\Czech\Vesely\TERRA\TERRA_VX.csv",comments='#',delimiter=',',skiprows=1)
-#chunk  = np.loadtxt(r"C:\cov\Czech\Vesely\TERRA\TERRA_UNVX.csv",comments='#',delimiter=',',skiprows=1)
+chunk  = np.loadtxt(r"C:\github\CzechFOI\TERRA\TERRA_VX_UNVX.csv",comments='#',delimiter=',',skiprows=1)
+#chunk  = np.loadtxt(r"C:\github\CzechFOI\TERRA\TERRA_VX.csv",comments='#',delimiter=',',skiprows=1)
+#chunk  = np.loadtxt(r"C:\github\CzechFOI\TERRA\",comments='#',delimiter=',',skiprows=1)
 DATA=np.array(chunk)
 Ys = DATA[:,0]
 Xs = DATA[:,1]
 Zs = DATA[:,2]
 VD1 =DATA[:,3]
-#Xs = np.genfromtxt(r"C:\cov\Czech\Vesely\UVX_D1\UVX_D1_X.csv", delimiter=',', unpack=True, skip_header=1)
-#Ys = np.genfromtxt(r"C:\cov\Czech\Vesely\UVX_D1\UVX_D1_Y.csv", delimiter=',', unpack=True, skip_header=1)
-#Zs = np.genfromtxt(r"C:\cov\Czech\Vesely\UVX_D1\UVX_D1_Z.csv", delimiter=',', unpack=True, skip_header=1)
-#VD1 = np.genfromtxt(r"C:\cov\Czech\Vesely\UVX_D1\UVX_D1_VD1.csv", delimiter=',', unpack=True, skip_header=1)
-
 
 #fig = plt.figure()
 fig = plt.figure(figsize=(16,10))

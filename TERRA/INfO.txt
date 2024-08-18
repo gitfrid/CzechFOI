@@ -1,4 +1,17 @@
-Python 3.12.5 and Visual Studio Code Editor 
-was used for the phyton script to create the 3D Plot. 
+Python 3.12.5 and Visual Studio Code Editor were used for the phyton script to create the 3D plot. 
 
-The CSV Files in this folder were created by SQLite Queries with the tool DB Browser for SQLite
+
+The CSV files in this folder were created by SQLite queries with the "DB Browser for SQLite" tool.
+
+
+When installing phyton make sure you add the phyton path to the Windows path variable,
+by selecting the option when asked.
+
+
+You also need to import the phyton matplot and plotly library, via the Windows command line.
+Otherwise, the Phyton script will not recognize the modules.
+
+run in commandline:
+pip install plotly
+pip install Matplotlib
+

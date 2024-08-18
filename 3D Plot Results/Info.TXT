@@ -1,0 +1,4 @@
+You can downlaod the results as interactive html files of the 3D-Plots.
+
+It is possible to zoom into details, and rotate the viewpoint of the 3D-Plot.
+

@@ -1,9 +1,10 @@
-DB Browser for SQLite Version 3.13.0 download from:
+"DB Browser for SQLite" Tool Version 3.13.0 download from:
 https://sqlitebrowser.org/dl/
 
 To extract the SqLite Database which does includ the imported Czech FOI Data,
 run DBBrowserforSQLite\CZFOI.exe to extract the SQlite database file CZFOI.db
 
+<<<<<<< Updated upstream
 The Data in SQLite Database CZFOI.db were imported from the Vesely_106_202403141131.csv 
 Download: https://github.com/PalackyUniversity/uzis-data-analysis/blob/main/data/Vesely_106_202403141131.tar.xz
 
@@ -18,6 +19,17 @@ Which can all be done in the query window of the DB SQLite Explorer Tool.
 
 See also:
 SQL queries the in folder SQLQueries.
+=======
+To extract the SQLite database file into CZFOI.db run CZFOI.exe
+
+The database includes the Czech FOI (Freedom of Information) Data, which were imported from the Vesely_106_202403141131.csv file.
+
+Then the Data from the SQLite Datbase Tabel "Czech" were processed by using SQLite queries, see in folder SQLQueries
+
+Finaly the query results were exported into CSV Files, to be used by the phyton script, see in TERRA folder
+CSV Export can directly be done in the query Window of the Tool.
+
+>>>>>>> Stashed changes
 
 
 
