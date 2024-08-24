@@ -1,3 +1,5 @@
+-- this querry was used to create the DB View "VX_DAYDIFF_MIN" in the DB CZFOI.db with the Tool DB Browser for SQLite  
+
 select
 (julianday("Datum_1", 'start of day') - julianday('2020-01-01', 'start of day')) AS DAYSVD1_20200101´ ,
 (strftime('%Y', DatumUmrti))-(strftime(Rok_narozeni)) AS AGE_D, 
