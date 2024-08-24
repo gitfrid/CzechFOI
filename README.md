@@ -3,7 +3,7 @@
 # Czech FOI Data 3D Plot 
 
 The resulting 3D-Plots are  zoomable and rotatable HTML files. 
-<br>You can download them here: [Result Folder](https://github.com/gitfrid/CzechFOI/tree/db77fbb3687d5766a9d19b14f2e80f2ded62f49c/3D%20Plot%20Results)
+<br>You can download them here: [Result Folder](https://github.com/gitfrid/CzechFOI/tree/main/3D%20Plot%20Results)
 
 <br>**Example picture interactive 3D-Plot Czech FOI Data - all VX and UNVX**
 <br>
