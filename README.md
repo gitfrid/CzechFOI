@@ -39,4 +39,4 @@ Visual Studio Code 1.92.2 to edit the phyton script (optional)
 https://code.visualstudio.com/download
 
 <br>License: open source GPL3 License
-<br>**Disclaimer: The result has not been checked for errors!**
+<br>**Disclaimer: The results has not been checked for errors!**
